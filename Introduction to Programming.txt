@@ -1,0 +1,114 @@
+C# language.
+
+Data Types. 
+
+
+Bolean - True, False 
+
+Sajjad age is less than wisal = false.
+
+sajjad age is equal to wisal = true
+
+--------------------------------------------------------------------------
+
+Character-> 0-9 , a-z, special characters %*#*^#@ a single character in single quote 
+
+Valid Examples '0', '3', '@' , '%'
+
+Invalid example '34', '2@' 
+
+In c# we represent character by
+
+char
+
+--------------------------------------------
+
+string one or more characters in double quotes 
+
+valid example "3a$" , "2" , "Jamal" , "sajjad", "Wisal"
+
+"House#34, Dubai, UAE", , "3.4"
+
+"3" , 
+
+invalid example '3' , 3 
+
+---------------------------------------------
+Integer - Whole Numbers
+
+0-9 (0,1,2,3,4,5,6,7,8,9)
+
+Examples, 0, 2, 12, 25.
+
+In c# we represent integer by
+
+int -> Integer.
+
+-------------------------------
+
+Float -> 0-9 that contains floating point "." also called decimal numbers
+
+size 4 byte
+
+Valid examples -> 0.1f, 5.3f, 6.7f, 1.2f
+Invalid example a.2 , 0.1.2
+
+In c# we represent float by
+
+float 3.32424242
+
+-------------------------------
+
+Double -> float 3.234234234234242 8 byte
+
+
+---------------------------------
+
+
+Memory -> Storage. 
+
+You can store text file, Music file, even games etc.
+
+
+
+**************************************************************************
+
+
+Memory & Storage units.
+
+
+bit -> True , False  2 values. 0 , 1 .
+
+
+1 byte -> 8 bits. 
+
+1 Kilo byte -> 1000 byte KB
+
+1 Mega byte -> 1000 Kilo byte MB
+
+1 Giga byte -> 1000 Mega byte GB
+
+1 Tera byte -> 1000 Giga byte TB.
+
+
+--------------------------------------------------
+
+Speed in  IT.
+
+100 MB/s -> from Flash drive to computer. USB port , Universal Serial Bus.
+
+Speed in internet is usually measure in bits.
+
+100 Mbps.
+
+12.5 MB/s.  100 Mbps/8 = 12.5 MBps.
+
+---------------------------------------------------
+
+
+Assignment.
+
+
+Q1 : if a hard drive is 3.5 TB how much is it in GB and MB.
+
+Q2 : if an internet speed is 12 Mbps , how much is it in MBps.

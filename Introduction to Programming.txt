@@ -115,3 +115,6 @@ Q2 : if an internet speed is 12 Mbps , how much is it in MBps.
 
 
 ---------------------------------------------
+
+
+change by jamal
